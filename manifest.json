@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "GS Analyzer",
+  "version": "1.0",
+  "description": "Google Scholar Analyzer",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+	  "19": "19.png",
+      "38": "38.png",
+      "48": "48.png",
+      "128": "128.png"
+    }
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+	  "css": ["popup.css"],
+      "js": ["scripts/loadArticles.js", "popup.js"],
+      "matches": ["https://scholar.google.com/*"]
+    }
+  ],
+   "web_accessible_resources": [{
+	 "matches": ["<all_urls>"],
+     "resources": ["scripts/if.js","scripts/summaryAlert.js", "data/JCR2023IF.json"]
+   }]
+}
