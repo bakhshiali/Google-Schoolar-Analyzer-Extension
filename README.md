@@ -1,5 +1,6 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-blue?logo=GitHub)](https://github.com/bakhshiali)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-green?logo=GitHub)](https://github.com/bakhshiali?tab=repositories)
+[![Google Scholar Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)](https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)
 # Google-Schoolar-Analyzer-Extension
 A Chrome browser extension for advanced analysis of Google Scholar profiles like impact factors (IFs) and total number of documents.<br>
 
