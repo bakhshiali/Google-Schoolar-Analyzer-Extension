@@ -20,3 +20,7 @@ A Chrome browser extension for advanced analysis of Google Scholar profiles like
 <li> Inserts a column next to year and shows IF of the journal</li>
 <li> Counts all documents and inserts total number of documents</li>
 </ul>
+<h2 align="center"> Before click! </h2>
+<p align="center"> <img src="screenshots/before.png" alt="Logo"> </p>
+<h2 align="center"> After click! </h2>
+<p align="center"> <img src="screenshots/after.png" alt="Logo"> </p>
